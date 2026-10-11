@@ -80,8 +80,8 @@ This is the first time ever I have used ReactJS and I never watched a YouTube tu
 
 ## Author
 
-- GitHub - [@shinthantkg](https://www.github.com/shinthantkg)
-- Frontend Mentor - [@shinthantkg](https://www.frontendmentor.io/profile/shinthantkg)
+- GitHub - [@stkaung](https://www.github.com/stkaung)
+- Frontend Mentor - [@stkaung](https://www.frontendmentor.io/profile/stkaung)
 
 ## Acknowledgments
 
