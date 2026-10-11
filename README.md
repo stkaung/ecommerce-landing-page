@@ -54,7 +54,7 @@ This is a solution to the [E-commerce product page coding challenge](https://www
 
 ### Links
 
-- [Live site](https://ecommerce-product-page-shinthantkg.netlify.app)
+- [Live site](https://shinthantkg-ecommerce.vercel.app/)
 
 ## My process
 
